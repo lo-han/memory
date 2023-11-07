@@ -5,6 +5,14 @@ Safe memory manipulation library
 
 - [API Reference](core/safe_memory.h)
 
+## Build objects
+
+The `*.o` files will appear at `obj/` folder
+
+``` bash
+make
+```
+
 ## Run tests
 
 ``` bash
